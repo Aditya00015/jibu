@@ -144,7 +144,10 @@ app_license = "MIT"
 # 		"pos_extension.tasks.monthly"
 # 	],
 # }
-
+fixtures=[
+    { "dt":"Insights Query","filters":[]},
+    { "dt":"Insights Dashboard","filters":[]}
+    ]
 # Testing
 # -------
 
