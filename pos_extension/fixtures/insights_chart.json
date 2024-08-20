@@ -1,5 +1,115 @@
 [
  {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:07.110910",
+  "name": "p3ivp7bhmp",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0006"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:07.392962",
+  "name": "p3j170tq8o",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0007"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:07.590383",
+  "name": "p3j3cjf6hj",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0040"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:07.633711",
+  "name": "p3j4u3nj5u",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0020"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:07.780004",
+  "name": "p3j5dvkesc",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0034"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:07.864350",
+  "name": "p3j6719avt",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0019"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:07.929278",
+  "name": "p3j7cefiti",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0008"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:08.034161",
+  "name": "p3j8j1qt51",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0030"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:08.059959",
+  "name": "p3j88l03qp",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0043"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-20 13:49:08.525522",
+  "name": "p3jdv17esk",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0085"
+ },
+ {
   "chart_type": "Table",
   "docstatus": 0,
   "doctype": "Insights Chart",
