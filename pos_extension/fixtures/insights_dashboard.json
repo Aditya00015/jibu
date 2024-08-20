@@ -356,7 +356,6 @@
   "title": "Sales Metrics(Weekly - Visual)"
  },
  {
-  "_liked_by": "[]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
   "is_public": 1,
@@ -440,7 +439,6 @@
   "title": "Refill Metrics Weekly"
  },
  {
-  "_liked_by": "[]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
   "is_public": 0,
@@ -488,7 +486,6 @@
   "title": "Retention Rate Weekly"
  },
  {
-  "_liked_by": "[]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
   "is_public": 0,
@@ -554,7 +551,6 @@
   "title": "Product Sales Metrics"
  },
  {
-  "_liked_by": "[]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
   "is_public": 0,
@@ -656,7 +652,6 @@
   "title": "Refill Rate Metrics"
  },
  {
-  "_liked_by": "[\"doreen@jibuco.com\"]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
   "is_public": 0,
@@ -769,7 +764,6 @@
   "title": "Retention Rate Dynamic Dashboard Weekly"
  },
  {
-  "_liked_by": "[]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
   "is_public": 1,
@@ -826,7 +820,6 @@
   "title": "Refill Frequency Weekly"
  },
  {
-  "_liked_by": "[]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
   "is_public": 0,
@@ -865,7 +858,6 @@
   "title": "Retention Rate Metrics"
  },
  {
-  "_liked_by": "[]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
   "is_public": 0,
@@ -913,7 +905,6 @@
   "title": "All Customer List"
  },
  {
-  "_liked_by": "[]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
   "is_public": 1,
