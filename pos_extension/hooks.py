@@ -146,7 +146,8 @@ app_license = "MIT"
 # }
 fixtures=[
     { "dt":"Insights Query","filters":[]},
-    { "dt":"Insights Dashboard","filters":[]}
+    { "dt":"Insights Dashboard","filters":[]},
+    { "dt":"Insights Chart","filters":[]}
     ]
 # Testing
 # -------
