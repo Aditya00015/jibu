@@ -1,5 +1,104 @@
 [
  {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-21 13:41:05.181097",
+  "name": "jakbtpqii4",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0006"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-21 13:41:05.445488",
+  "name": "jakem336u7",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0007"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-21 13:41:05.647034",
+  "name": "jakguhfube",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0040"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-21 13:41:05.677456",
+  "name": "jakghcb956",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0020"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-21 13:41:05.789461",
+  "name": "jakh8kpc7l",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0034"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-21 13:41:05.838602",
+  "name": "jaki1ifil6",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0019"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-21 13:41:05.890238",
+  "name": "jaki8i4ieh",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0008"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-21 13:41:06.099136",
+  "name": "jakkjkb2hp",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0030"
+ },
+ {
+  "chart_type": null,
+  "docstatus": 0,
+  "doctype": "Insights Chart",
+  "is_public": 0,
+  "modified": "2024-08-21 13:41:06.166506",
+  "name": "jakls1s4oi",
+  "options": "{}",
+  "public_key": null,
+  "query": "QRY-0043"
+ },
+ {
   "chart_type": "Table",
   "docstatus": 0,
   "doctype": "Insights Chart",
