@@ -3,6 +3,54 @@
   "_liked_by": "[]",
   "docstatus": 0,
   "doctype": "Insights Dashboard",
+  "is_public": 0,
+  "items": [
+   {
+    "item_id": "673315",
+    "item_type": "Table",
+    "layout": "{\"i\":673315,\"x\":0,\"y\":0,\"w\":20,\"h\":5,\"moved\":false}",
+    "options": "{\"columns\":[{\"column\":\"Customers Who Bought These Two Week & Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought Last Two Week Only\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Retention Rate\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"These Two Week\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0056\",\"title\":\"Global Retention Rate Weekly\"}",
+    "parent": "DSH-0054",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "821573",
+    "item_type": "Table",
+    "layout": "{\"i\":821573,\"x\":0,\"y\":5,\"w\":20,\"h\":10,\"moved\":false}",
+    "options": "{\"columns\":[{\"column\":\"Type of Customer\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought These Two Week & Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought Last Two Week Only\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Retention Rate\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"These Two Week\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0057\",\"title\":\"Global Retention Rate weekly with Type of Customer\"}",
+    "parent": "DSH-0054",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "896219",
+    "item_type": "Table",
+    "layout": "{\"i\":896219,\"x\":0,\"y\":15,\"w\":20,\"h\":23,\"moved\":false}",
+    "options": "{\"columns\":[{\"column\":\"Franchise\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"These Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought These Two Week & Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought Last Two Week Only\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Retention Rate\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0055\",\"title\":\"Franchise Wise Retention Rate Weekly\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
+    "parent": "DSH-0054",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   },
+   {
+    "item_id": "293406",
+    "item_type": "Table",
+    "layout": "{\"i\":293406,\"x\":0,\"y\":38,\"w\":20,\"h\":25,\"moved\":false}",
+    "options": "{\"columns\":[{\"column\":\"Franchise\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Type of Customer\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"These Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought This Week & Last Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought Last Week Only\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Retention Rate\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0035\",\"title\":\"Retention Rate Weekly with Type Of Customer\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
+    "parent": "DSH-0054",
+    "parentfield": "items",
+    "parenttype": "Insights Dashboard"
+   }
+  ],
+  "modified": "2024-06-14 11:52:17.962226",
+  "name": "DSH-0054",
+  "public_key": null,
+  "title": "Retention Rate Weekly"
+ },
+ {
+  "_liked_by": "[]",
+  "docstatus": 0,
+  "doctype": "Insights Dashboard",
   "is_public": 1,
   "items": [
    {
@@ -82,54 +130,6 @@
   "name": "DSH-0050",
   "public_key": "16d034553a5f5ccb132f1a2d418f39eb728d2ef3a8f4e769862a0aee",
   "title": "Refill Metrics Weekly"
- },
- {
-  "_liked_by": "[]",
-  "docstatus": 0,
-  "doctype": "Insights Dashboard",
-  "is_public": 0,
-  "items": [
-   {
-    "item_id": "673315",
-    "item_type": "Table",
-    "layout": "{\"i\":673315,\"x\":0,\"y\":0,\"w\":20,\"h\":5,\"moved\":false}",
-    "options": "{\"columns\":[{\"column\":\"Customers Who Bought These Two Week & Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought Last Two Week Only\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Retention Rate\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"These Two Week\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0056\",\"title\":\"Global Retention Rate Weekly\"}",
-    "parent": "DSH-0054",
-    "parentfield": "items",
-    "parenttype": "Insights Dashboard"
-   },
-   {
-    "item_id": "821573",
-    "item_type": "Table",
-    "layout": "{\"i\":821573,\"x\":0,\"y\":5,\"w\":20,\"h\":10,\"moved\":false}",
-    "options": "{\"columns\":[{\"column\":\"Type of Customer\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought These Two Week & Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought Last Two Week Only\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Retention Rate\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"These Two Week\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0057\",\"title\":\"Global Retention Rate weekly with Type of Customer\"}",
-    "parent": "DSH-0054",
-    "parentfield": "items",
-    "parenttype": "Insights Dashboard"
-   },
-   {
-    "item_id": "896219",
-    "item_type": "Table",
-    "layout": "{\"i\":896219,\"x\":0,\"y\":15,\"w\":20,\"h\":23,\"moved\":false}",
-    "options": "{\"columns\":[{\"column\":\"Franchise\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"These Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought These Two Week & Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought Last Two Week Only\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Retention Rate\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0055\",\"title\":\"Franchise Wise Retention Rate Weekly\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
-    "parent": "DSH-0054",
-    "parentfield": "items",
-    "parenttype": "Insights Dashboard"
-   },
-   {
-    "item_id": "293406",
-    "item_type": "Table",
-    "layout": "{\"i\":293406,\"x\":0,\"y\":38,\"w\":20,\"h\":25,\"moved\":false}",
-    "options": "{\"columns\":[{\"column\":\"Franchise\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Type of Customer\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Last Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"These Two Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought This Week & Last Week\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Customers Who Bought Last Week Only\",\"column_options\":{\"column_type\":\"Text\"}},{\"column\":\"Retention Rate\",\"column_options\":{\"column_type\":\"Text\"}}],\"query\":\"QRY-0035\",\"title\":\"Retention Rate Weekly with Type Of Customer\",\"index\":true,\"showTotal\":true,\"filtersEnabled\":true}",
-    "parent": "DSH-0054",
-    "parentfield": "items",
-    "parenttype": "Insights Dashboard"
-   }
-  ],
-  "modified": "2024-06-14 11:52:17.962226",
-  "name": "DSH-0054",
-  "public_key": null,
-  "title": "Retention Rate Weekly"
  },
  {
   "_liked_by": "[]",
@@ -381,7 +381,7 @@
     "parenttype": "Insights Dashboard"
    }
   ],
-  "modified": "2024-08-01 10:44:00.187803",
+  "modified": "2024-08-20 14:52:16.494177",
   "name": "DSH-0049",
   "public_key": "68324cd0372737604e4ec9ad2880415cdd2bd1c334247bd103e31986",
   "title": "Refill Frequency Weekly"
